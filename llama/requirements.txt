@@ -1,0 +1,6 @@
+huggingface_hub
+llama-stack
+notebook
+transformers
+torch
+torchvision
