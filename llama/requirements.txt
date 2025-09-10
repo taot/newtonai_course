@@ -1,7 +1,10 @@
+accelerate
 huggingface_hub
 llama-stack
 matplotlib
 notebook
+sentencepiece
 transformers
 torch
+torchview
 torchvision
