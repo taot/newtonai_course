@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/newtonai_course.iml" filepath="$PROJECT_DIR$/.idea/newtonai_course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/llama.iml" filepath="$PROJECT_DIR$/.idea/llama.iml" />
     </modules>
   </component>
 </project>
